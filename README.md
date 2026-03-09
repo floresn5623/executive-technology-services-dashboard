@@ -16,7 +16,7 @@ This project integrated and cleaned these datasets to develop an executive dashb
 To prepare the data for analysis, more than 30 datasets from multiple IT departments were reviewed, cleaned, and standardized. Data was processed using Excel and Tableau Prep to remove inconsistencies, handle missing values, and ensure accurate formatting across sources. The datasets were then integrated into a structured format that enabled reliable analysis and visualization within Tableau.
 
 ## Dashboard
-![Executive Technology Services Dashboard](dashboard-preview.png)
+![Executive Technology Services Dashboard](technology-services-dashboard.png)
 
 ## Key Insights
 - Vendor spending was concentrated among a small number of providers.
